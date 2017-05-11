@@ -1,0 +1,22 @@
+{
+  "name": "stringsplosion",
+  "version": "1.0.0",
+  "description": "stringSplosion class",
+  "main": "index.js",
+  "scripts": {
+   "test": "jasmine" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielAmah/stringSplosion.git"
+  },
+  "author": "Daniel Amah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielAmah/stringSplosion/issues"
+  },
+  "homepage": "https://github.com/DanielAmah/stringSplosion#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
